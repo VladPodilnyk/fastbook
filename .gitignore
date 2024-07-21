@@ -1,3 +1,4 @@
+.DS_Store
 .gitattributes
 models/
 tmp/
@@ -8,3 +9,6 @@ __pycache__/
 .last_checked
 .gitconfig
 .ipynb_checkpoints/
+images/
+is_supra/
+is_supra_app/
